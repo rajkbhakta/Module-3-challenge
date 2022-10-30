@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 03 JavaScript: Password Generator
 
 ## Your Task
@@ -99,3 +100,6 @@ You are required to submit the following for review:
 ---
 
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+=======
+# Module-3-challenge
+>>>>>>> a8313dbe0748356ee307baba312ecca30e2de783
